@@ -1,1 +1,1 @@
-print(100*56)
+print("Desdelocal")
