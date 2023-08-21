@@ -1,1 +1,1 @@
-print("PRUEBA 1")
+print(100*56)
