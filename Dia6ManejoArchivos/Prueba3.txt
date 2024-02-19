@@ -1,0 +1,6 @@
+hola
+mundo
+esta
+es
+una
+lista
