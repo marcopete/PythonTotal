@@ -1,0 +1,13 @@
+# Ignorar todo por defecto
+*
+
+# No ignorar las carpetas específicas
+!PythonTotal/
+!Dia*/
+
+# Pero ignorar todo dentro de esas carpetas
+PythonTotal/*
+Dia*/*
+
+# No ignorar el propio archivo .gitignore
+!.gitignore
